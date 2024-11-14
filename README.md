@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Victor Duarte and I'm a FullStack Developer from Brazil, Minas Gerais.</h3>
+<h3 align="left">Hi 👋! My name is Victor Duarte and I am a Software Engineer | Uniube © Student of Systems Analysis and Development, I live in Brazil, Minas Gerais.</h3>
 
 ###
 
@@ -48,7 +48,7 @@
   <a href="contato.vhzborges@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/victor-hugo-borges-4963b9259/" target="_blank">
+  <a href="https://www.linkedin.com/in/victorduartewz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
