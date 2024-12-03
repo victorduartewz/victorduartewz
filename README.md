@@ -46,11 +46,13 @@
   </a>
 </div>
 
+<details> 
 <summary><b>🏗️ Contributions </b></summary>
 <div align="center"> <br>
     <img src="https://github.com/osiristape/osiristape/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D-Graph-Contribution" width="600">
 </div>
 
+</details>
 
 ###
 
