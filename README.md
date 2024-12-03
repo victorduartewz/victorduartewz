@@ -2,11 +2,6 @@
 
 ###
 
-<summary><b>🏗️ Contributions </b></summary>
-<div align="center"> <br>
-    <img src="https://github.com/osiristape/osiristape/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D-Graph-Contribution" width="600">
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorduartewz&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -50,6 +45,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+<summary><b>🏗️ Contributions </b></summary>
+<div align="center"> <br>
+    <img src="https://github.com/osiristape/osiristape/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D-Graph-Contribution" width="600">
+</div>
+
 
 ###
 
