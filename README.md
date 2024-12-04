@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36ad76&size=28&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Victor+Duarte;I'm+20+years+old;I+am+from+Nova+Ponte,+MG;I+study+analysis+and+systems+development+at+Uniube;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://i.pinimg.com/736x/a3/c2/16/a3c2165c0da9b344ccb98ef854076947.jpg" height="10%" width="10%"/>
   <div style="display: flex;">
     <h6>"Passionate about programming and dedicated to giving my best in everything I love.<br> Currently studying Systems Analysis and Development at Uniube, Uberlândia, <br>with a focus on turning challenges into opportunities.<br>Don't change the world for your desires; change yourself."</b></h6>
   </div>
@@ -67,21 +68,21 @@
 
 </details>
 
-###
+##
 
  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorduartewz}/count.svg" /></p> 
-<br></div>
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@victorduartewz?theme=booru-vp" height="30%" width="30%" />
+</h6 <br>
 
-<br clear="both">
+
+
 
 <h6 align="center">
+ <a href="https://instagram.com/victorduartewz">
+  <img src="https://img.shields.io/badge/Insta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;"/></a>
   <a href="https://github.com/victorduartewz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
- <a href="https://instagram.com/victorduartewz">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;"/></a>
   <a href="https://www.linkedin.com/in/victorduartewz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="margin-bottom: 5px;" />
 </a>
@@ -89,13 +90,15 @@
 
 </h6>
   
+##
 
-    
+<details>
+  <summary><b>My Pet</b></summary>
   <div align="center">
   <br><p align="centre"><b>My pet</b></p>  
   <p align="center"><img src="https://raw.githubusercontent.com/victorduartewz/victorduartewz/output/snake.svg" alt="Snake animation" /></p> 
   <br></div>
-
+</details> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36ad76&height=120&section=footer"/>
   </div>
  </div>
