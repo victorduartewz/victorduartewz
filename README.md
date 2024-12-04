@@ -4,8 +4,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex;">
-    <h2>Whats up, welcome to my github! 👋</h2>
-    <h6>"Passionate about programming and dedicated to giving my best in everything I love. Currently studying Systems Analysis and Development at Uniube, Uberlândia, with a focus on turning challenges into opportunities. Don't change the world for your desires; change yourself.".</h6>
+    <h6>"Passionate about programming and dedicated to giving my best in everything I love.<br> Currently studying Systems Analysis and Development at Uniube, Uberlândia, <br>with a focus on turning challenges into opportunities.<br>Don't change the world for your desires; change yourself."</b></h6>
   </div>
 </div>
 
@@ -13,6 +12,7 @@
 
 <details>
   <summary><b>🐊 Skill's</b></summary>
+  <div align="center" style="display: flex; align-items: center; justify-content: center;">
   
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -21,6 +21,7 @@
 
  
 ### Tools:
+![AWS](https://img.shields.io/badge/-aws-0D1117?style=flat&logo=amazon-web-services&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)&nbsp;
@@ -39,8 +40,10 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=flat&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=flat&logo=react&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&labelColor=0D1117)&nbsp;
+</div>
 
 </details>
+
 
 <details>
   <summary><b>⛩️ Stat's</b></summary>
@@ -53,20 +56,26 @@
   
 </details>
 
+
 <details>
   <summary><b>🏆 Trophy's</b></summary>
   
 ###
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victorduartewz&theme=nord&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=victorduartewz&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 </details>
 
 ###
 
-<details>
-  <summary><b>📫 Contact's</b></summary>
+ 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorduartewz}/count.svg" /></p> 
+<br></div>
+
+<br clear="both">
 
 <h6 align="center">
   <a href="https://github.com/victorduartewz" target="_blank">
@@ -80,16 +89,6 @@
 
 </h6>
   
-</details>
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorduartewz}/count.svg" /></p> 
-<br></div>
-
-<br clear="both">
 
     
   <div align="center">
