@@ -95,7 +95,6 @@
 <details>
   <summary><b>My Pet</b></summary>
   <div align="center">
-  <br><p align="centre"><b>My pet</b></p>  
   <p align="center"><img src="https://raw.githubusercontent.com/victorduartewz/victorduartewz/output/snake.svg" alt="Snake animation" /></p> 
   <br></div>
 </details> 
