@@ -1,85 +1,74 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36ad76&height=120&section=header&"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B1FA2&height=120&section=header&"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36ad76&size=28&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Victor+Duarte;I'm+20+years+old;I+am+from+Nova+Ponte,+MG;I+study+analysis+and+systems+development+at+Uniube;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D50BB&size=28&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Victor+Duarte;I'm+21+years+old;I'm+a+Junior+Front-End+Developer;I+study+ADS+at+FACINT;Welcome+to+the+Shadow+Gym!+👻)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github.com/victorduartewz/victorduartewz/blob/main/wallpaper.gif" height="100%" width="100%"/>
   <div style="display: flex;">
-    <h6>"Passionate about programming and dedicated to giving my best in everything I love.<br> Currently studying Systems Analysis and Development at Uniube, Uberlândia, <br>with a focus on turning challenges into opportunities.<br>Don't change the world for your desires; change yourself."</b></h6>
+    <h6>"Passionate about programming and dedicated to giving my best in everything I love.<br> Currently studying Systems Analysis and Development at FACINT, <br>with a focus on turning challenges into opportunities.<br>Don't change the world for your desires; change yourself."</b></h6>
   </div>
 </div>
 
 ###
 
 <details>
-  <summary><b>🐊 Skill's</b></summary>
+  <summary><b>👻 Shadow Skill's</b></summary>
   <div align="center" style="display: flex; align-items: center; justify-content: center;">
   
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=flat&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=flat&logo=react&labelColor=0D1117)&nbsp;
+### Current Stack:
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=2D0A4E)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&labelColor=2D0A4E)
+![NextJs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=2D0A4E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=2D0A4E)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=2D0A4E)
 
- 
-### Tools:
-![AWS](https://img.shields.io/badge/-aws-0D1117?style=flat&logo=amazon-web-services&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/Android%20Studio-0D1117?style=flat&logo=android-studio&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=flat&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=flat&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=flat&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=flat&logo=figma&labelColor=0D1117)&nbsp;
-  
+### UI & UX:
+![ShadCn](https://img.shields.io/badge/ShadCn-000000?style=flat&logo=shadcnui&logoColor=white&labelColor=2D0A4E)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white&labelColor=2D0A4E)
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=flat&logo=figma&labelColor=2D0A4E)&nbsp;
+
+### Tools & Automation:
+![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat&logo=n8n&logoColor=white&labelColor=2D0A4E)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=2D0A4E)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white&labelColor=2D0A4E)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=2D0A4E)&nbsp;
+
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=flat&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=flat&logo=react&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat&logo=openjdk&labelColor=0D1117)&nbsp;
+![AI Automation](https://img.shields.io/badge/AI_Automation-8A2BE2?style=flat&labelColor=2D0A4E)
+![Web3](https://img.shields.io/badge/Web3_Development-4B0082?style=flat&labelColor=2D0A4E)
 </div>
 
 </details>
 
-
 <details>
   <summary><b>⛩️ Stat's</b></summary>
   <div align="center">  
-    <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorduartewz&show_icons=true&count_private=true&hide_border=true&title_color=36ad76&icon_color=36ad76&text_color=c9d1d9&bg_color=0d1117" alt="Victor Hugo Borges Duarte GitHub Stats" /> 
-    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorduartewz&layout=compact&hide_border=true&title_color=36ad76&text_color=36ad76&bg_color=0d1117" />
+    <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorduartewz&show_icons=true&count_private=true&hide_border=true&title_color=7B1FA2&icon_color=9D50BB&text_color=c9d1d9&bg_color=0d1117" alt="Victor GitHub Stats" /> 
+    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorduartewz&layout=compact&hide_border=true&title_color=7B1FA2&text_color=9D50BB&bg_color=0d1117" />
   </div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorduartewz&bg_color=000000&color=36ad76&line=36ad76&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victorduartewz&bg_color=000000&color=7B1FA2&line=9D50BB&point=7B1FA2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </details>
-
 
 <details>
   <summary><b>🏆 Trophy's</b></summary>
   
 ###
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victorduartewz&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=victorduartewz&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 </details>
 
 ##
 
- 
 <h6 align="center">
   <img src="https://moe-counter.glitch.me/get/@victorduartewz?theme=booru-vp" height="30%" width="30%" />
-</h6 <br>
-
-
-
+</h6> <br>
 
 <h6 align="center">
- <a href="https://instagram.com/victorduartewz">
+ <a href="https://www.instagram.com/victorh.drt">
   <img src="https://img.shields.io/badge/Insta-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;"/></a>
   <a href="https://github.com/victorduartewz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
@@ -98,6 +87,4 @@
   <p align="center"><img src="https://raw.githubusercontent.com/victorduartewz/victorduartewz/output/snake.svg" alt="Snake animation" /></p> 
   <br></div>
 </details> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36ad76&height=120&section=footer"/>
-  </div>
- </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B1FA2&height=120&section=footer"/>
