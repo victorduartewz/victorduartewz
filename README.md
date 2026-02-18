@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D50BB&size=28&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Victor+Duarte;I'm+21+years+old;I'm+a+Junior+Front-End+Developer;I+study+ADS+at+FACINT;Welcome+to+the+Shadow+Gym!+👻)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/victorduartewz/victorduartewz/blob/main/wallpaper.gif" height="100%" width="100%"/>
+    <img src="https://github.com/victorduartewz/victorduartewz/blob/main/gengar.gif" height="100%" width="100%"/>
   <div style="display: flex;">
     <h6>"Passionate about programming and dedicated to giving my best in everything I love.<br> Currently studying Systems Analysis and Development at FACINT, <br>with a focus on turning challenges into opportunities.<br>Don't change the world for your desires; change yourself."</b></h6>
   </div>
