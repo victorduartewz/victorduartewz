@@ -40,32 +40,7 @@
 
 </details>
 
-<details>
-  <summary><b>⛩️ Stat's</b></summary>
-  <div align="center">  
-    <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorduartewz&show_icons=true&count_private=true&hide_border=true&title_color=7B1FA2&icon_color=9D50BB&text_color=c9d1d9&bg_color=0d1117" alt="Victor GitHub Stats" /> 
-    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorduartewz&layout=compact&hide_border=true&title_color=7B1FA2&text_color=9D50BB&bg_color=0d1117" />
-  </div>
-  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victorduartewz&bg_color=000000&color=7B1FA2&line=9D50BB&point=7B1FA2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</details>
-
-<details>
-  <summary><b>🏆 Trophy's</b></summary>
-  
-###
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victorduartewz&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-</details>
-
 ##
-
-<h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@victorduartewz?theme=booru-vp" height="30%" width="30%" />
-</h6> <br>
 
 <h6 align="center">
  <a href="https://www.instagram.com/victorh.drt">
@@ -81,10 +56,4 @@
   
 ##
 
-<details>
-  <summary><b>My Pet</b></summary>
-  <div align="center">
-  <p align="center"><img src="https://raw.githubusercontent.com/victorduartewz/victorduartewz/output/snake.svg" alt="Snake animation" /></p> 
-  <br></div>
-</details> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B1FA2&height=120&section=footer"/>
